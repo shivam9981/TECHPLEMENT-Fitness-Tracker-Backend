@@ -5,9 +5,9 @@ Signup Api :- http://localhost:5000/api/auth/signup
 Input
 {
     "name":"shivam",
-    "email":"shivamm00210@gmil.com",
+    "email":"shivamm00210@gmail.com",
     "mobile":"9981392889",
-    "password":"shivam"
+    "password":"12345"
 }
 
 Output
@@ -19,8 +19,8 @@ Output
 
 Login Api :- http://localhost:5000/api/auth/login
 {
-    "email":"shivamm0021@gmil.com",
-    "password":"shivam"
+    "email":"shivamm0021@gmail.com",
+    "password":"12345"
 }
 
 {
